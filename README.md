@@ -1,2 +1,2 @@
 # Welcome to My Blog
-My name is Tedi
+My name is Tedi Fajrin
